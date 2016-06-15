@@ -39,11 +39,11 @@ odgovor na drugo vprašanje... Ai za odgovor na i-to vprašanje.
   <li>Najdi interpolacijski polinom čez točke (-1, A2), (0, A3), in (1, A9) ter povej njegovo vrednost
           v točki -1.
   <li>Najdi dolžino najkrajše poti skozi labirint ‘mazeA10.txt’. Najkrajša pot skozi labirint
-      ```
-      +--+--+
-            |
-      +--+  +
-      ```
+<pre>
++--+--+
+|     |
++--+  +
+<pre>
     je dolga 2.
   <li>Koliko podmnožic moči A11 množice z močjo A8 obstaja? Izračunaj število števk tega števila.</li>
   <li>Koliko trikotnikov ima poln graf z A12 vozlišči?</li>
