@@ -2,21 +2,26 @@
 
 Zadnja ura krožka 2015/16. Kdor prvi pride do konca dobi večno čast in slavo in morda nagrado.
 
-## Naloge
+## Naloge 
+Nloge rešujete po vrsti. Pri naslednji nalogi ponavadi potrebujete odgovor
+prejšnje naloge, ali celo več prejšnjih nalog, tako da si odgovore shranjujte.
 
 1. stuff
 2. stuff
 3. stuff
 
-Čestitam, prestal si prvo stopnjo. Sedaj lahko nadaljuješ 
+Čestitam, prestal si prvo stopnjo. Sedaj lahko nadaljuješ v svojem razdelku.
 
-## Naloge za mlajše
+### Naloge za mlajše
 
-4. asdf
+<ol start="4">
+<li>asdf</li>
+</ol>
 
-## Naloge za starejše
+### Naloge za starejše
 
-4. asdf
-
+<ol start="4">
+<li>asdf</li>
+</ol>
 
 Maks Kolman, Jure Slak
