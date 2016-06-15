@@ -41,7 +41,7 @@ odgovor na drugo vprašanje... Ai za odgovor na i-to vprašanje.
   <li>Najdi dolžino najkrajše poti skozi labirint ‘mazeA10.txt’. Najkrajša pot skozi labirint
 <pre>
 +--+--+
-|     |
+      |
 +--+  +
 </pre>
     je dolga 2.
