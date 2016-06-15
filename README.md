@@ -10,10 +10,11 @@ odgovor na drugo vprašanje... Ai za odgovor na i-to vprašanje.
 
 1. Najdi četrto popolno število (tj. tako število, ki je vsota svojih pravih deliteljev)
 2. Najdi največjo števko v A1, ki je praštevilo.
-3. Izračunaj povprečje števil v A2-tem stolpcu v datoteki ‘data.csv’ in ga zaokroži navzdol. Stolpci se začnejo šteti z 1.
+3. Izračunaj povprečje števil v A2-tem stolpcu v datoteki [data.csv](data.csv) in ga zaokroži
+   navzdol. Stolpci se začnejo šteti z 1.
 4. Računaj `cos(A3 * pi)  *(A1 * A3)^21` in zaokroži na najbližje celo število.
 5. Pretvori A4 v niz, po tabeli 0 = A, 1 = B, ..., 9 = J.
-6. Zamenjaj vse pojavitve niza “BC” v nizu A5  z “JM”. Podobno zamenjaj “CB” z “MJ”.
+6. Zamenjaj vse pojavitve niza "BC" v nizu A5  z "JM". Podobno zamenjaj "CB" z "MJ".
 7. Naredi slovar, ki za vsako črko pove, kolikokrat se pojavi. Obstaja trojica črk, v kateri se
    vsaka izmed črk pojavi enako mnogokrat. Uredi jo tako, da tvori hkrati angleško in slovensko
    besedo (angleška pomeni nekaj vrednega in svetlikajočega).
