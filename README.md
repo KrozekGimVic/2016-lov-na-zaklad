@@ -36,7 +36,3 @@ odgovor na drugo vprašanje... Ai za odgovor na i-to vprašanje.
 </ol>
 
 Maks Kolman, Jure Slak
-
-
-373,395,334th: 003, 021 031, 039
-30,808,274,467th: 027 031
