@@ -2,12 +2,12 @@
 
 Zadnja ura krožka 2015/16. Kdor prvi pride do konca dobi večno čast in slavo in morda nagrado.
 
-## Naloge 
+## Naloge
 Nloge rešujete po vrsti. Pri naslednji nalogi ponavadi potrebujete odgovor
 prejšnje naloge, ali celo več prejšnjih nalog, tako da si odgovore shranjujte.
 
-1. stuff
-2. stuff
+1. Najdi četrto popolno število (tj. tako število, ki je vsota svojih pravih deliteljev)
+2. atuff
 3. stuff
 
 Čestitam, prestal si prvo stopnjo. Sedaj lahko nadaljuješ v svojem razdelku.
