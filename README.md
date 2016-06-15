@@ -43,7 +43,7 @@ odgovor na drugo vprašanje... Ai za odgovor na i-to vprašanje.
 +--+--+
 |     |
 +--+  +
-<pre>
+</pre>
     je dolga 2.
   <li>Koliko podmnožic moči A11 množice z močjo A8 obstaja? Izračunaj število števk tega števila.</li>
   <li>Koliko trikotnikov ima poln graf z A12 vozlišči?</li>
