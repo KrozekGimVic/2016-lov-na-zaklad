@@ -28,7 +28,7 @@ odgovor na drugo vprašanje... Ai za odgovor na i-to vprašanje.
   <li>Najdi drugo praštevilo po A1 * 10^6 in seštej njene zadnje tri števke </li>
   <li>Najdi največji pravi delitelj A4 </li>
   <li>Zmnoži vse števke iz A10, ki so večje ali enake 6, in to ponavljaj dokler ne dobiš dvomestnega števila </li>
-  <li>Najdi zadnji dve števki izraza A1 * A8 * A9 * A11 - A2 </li>
+  <li>Najdi zadnji dve števki izraza A1 * A8 * A9 * A11 - A2 + A3</li>
   <li>Pojdi po nagrado v omarico A12 </li>
 </ol>
 
@@ -52,7 +52,7 @@ odgovor na drugo vprašanje... Ai za odgovor na i-to vprašanje.
     pq`.  Število `e` naj bo naslednik A9. Koliko je `d` v zasebnem ključu za RSA, če je javni del enak
     `(n, e)`?</li>
   <li>Število A14 je štirimestno in ga zapišimo po števkah kot A14 = XYZW. Nagrada je v omarici `10 *
-    (X+Y-1) + (Z+W+1)`.</li>
+    (X+Y-1) + (Z+W)`.</li>
 </ol>
 
 Maks Kolman, Jure Slak
