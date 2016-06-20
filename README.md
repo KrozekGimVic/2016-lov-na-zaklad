@@ -52,7 +52,7 @@ odgovor na drugo vprašanje... Ai za odgovor na i-to vprašanje.
     pq`.  Število `e` naj bo naslednik A9. Koliko je `d` v zasebnem ključu za RSA, če je javni del enak
     `(n, e)`?</li>
   <li>Število A14 je štirimestno in ga zapišimo po števkah kot A14 = XYZW. Nagrada je v omarici `10 *
-    (X+Y-1) + (Z+W)`.</li>
+    (X+Y-1) + (Z+W-A2)`.</li>
 </ol>
 
 Maks Kolman, Jure Slak
